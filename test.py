@@ -2,7 +2,6 @@ import turtle
   
 pen = turtle.Turtle()
   
-pen.speed(80)  
 def curve():
     for i in range(200):
         pen.right(1)
